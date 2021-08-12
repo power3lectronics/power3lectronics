@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @power3lectronics
+- 👋 Hi, I’m felix
 - 👀 I’m interested in Python, Bash, R, Data Science and Scilab Script
 - 🌱 I’m currently learning Python and Scilab Script
 - 💞️ I’m looking to collaborate on Python, Scilab Script and Bash projects
