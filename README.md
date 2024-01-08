@@ -1,4 +1,4 @@
-- 👋 Hi, I’m felix
+- 👋 Hi, I’m patrick :)
 - 👀 I’m interested in Python, Bash, R, Data Science and Scilab Script
 - 🌱 I’m currently learning Python and Scilab Script
 - 💞️ I’m looking to collaborate on Python, Scilab Script and Bash projects
